@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Guru\Desktop\sudoku\sudoku.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Guru\Desktop\sudoku\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\Guru\Desktop\sudoku\jre\bin\javaw.exe (OK)
+Version string: 1.019.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\Guru\Desktop\sudoku\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Guru\Desktop\sudoku\sudoku.exe"
+Args length:	46/32768 chars
+Exit code:	0
